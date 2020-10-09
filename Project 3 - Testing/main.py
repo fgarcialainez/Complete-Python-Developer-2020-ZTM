@@ -15,6 +15,7 @@ def run_guess(guess, answer):
         return False
 
 
+# Entry point of the script
 if __name__ == '__main__':
     answer_arg = random.randint(1, 10)
 

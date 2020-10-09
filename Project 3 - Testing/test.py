@@ -26,5 +26,6 @@ class TestGame(unittest.TestCase):
         self.assertFalse(result)
 
 
+# Entry point of the script
 if __name__ == '__main__':
     unittest.main()

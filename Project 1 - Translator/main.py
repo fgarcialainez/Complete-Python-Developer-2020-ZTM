@@ -24,7 +24,7 @@ def translate():
         print("Please check your file path!")
 
 
-# Entry point of the program
+# Entry point of the script
 if __name__ == '__main__':
     # Call the translate function
     translate()

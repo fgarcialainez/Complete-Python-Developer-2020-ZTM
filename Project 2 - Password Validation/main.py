@@ -1,5 +1,5 @@
 """
-This module implements the passworkd validation exercise of the Section 14 of the course.
+This module implements the password validation exercise of the Section 14 of the course.
 """
 
 import re
@@ -22,7 +22,7 @@ def validate_password():
     print(f"Validated => {check is not None}")
 
 
-# Entry point of the program
+# Entry point of the script
 if __name__ == '__main__':
     # Call the validate password function
     validate_password()
