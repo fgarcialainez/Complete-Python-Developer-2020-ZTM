@@ -1,5 +1,5 @@
 """
-This module implements the Hacker News scraper exercise of the Section 17 of the course.
+This module implements the Hacker News scraper exercise of the Section 18 of the course.
 """
 
 import pprint
