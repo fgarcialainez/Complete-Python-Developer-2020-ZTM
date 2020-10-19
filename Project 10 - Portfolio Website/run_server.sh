@@ -1,3 +1,5 @@
+# This script setup and run the website in a Flask server
+
 # Create a virtual environment
 python -m venv .
 
